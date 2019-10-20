@@ -11,7 +11,9 @@
 
 ## dataset
 - [x] mnist
+
 ![img](../imgs/dcgan-mnist.gif)
 - [x] fashion mnist
+
 ![img](../imgs/dcgan-fashion.gif)
 - [ ] celebA
