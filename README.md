@@ -1,1 +1,1 @@
-# study gan
+# GAN STUDY
